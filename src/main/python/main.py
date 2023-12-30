@@ -42,6 +42,7 @@ DEVICE_DESC = {
     (0x0c45, 0x652f): "Glorious GMMK / Tecware Phantom",
     (0x0c45, 0x5004): "Redragon",
     (0x0c45, 0x5104): "Redragon",
+    (0x0c45, 0x7664): "Krom Kernel TKL",
     (0x0c45, 0x766b): "Kemove",
     (0x0c45, 0x7698): "Womier",
     (0x0C45, 0x7903): "Ajazz",
